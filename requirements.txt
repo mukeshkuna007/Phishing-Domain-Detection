@@ -1,0 +1,9 @@
+pandas
+numpy
+joblib
+regex
+python-whois
+datetime
+xgboost
+streamlit
+scikit-learn
